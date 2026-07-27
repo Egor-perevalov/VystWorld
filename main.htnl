@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>VystWorld</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&family=Chakra+Petch:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&family=Honk:MORF@15&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+    <style>
+        body {
+            background: #0057ff;
+            color: white;
+            font-family: "Raleway", sans-serif;
+        }
+        a {
+            color: white;
+            font-size: 120%;
+        }
+        #prof {
+            background: #ffffff;
+            color: #0057fe;
+            font-size: 110%;
+        }
+    </style>
+</head>
+<body>
+    <h1><center>VystWorld.</center></h1>
+    <p>Это лучший сервер для Minecraft.</p>
+    <p>IP: </p>
+    <p>Почему VystWorld?</p>
+    <ul>
+        <li>Удобно.</li>
+        <li>Античит присутствует.</li>
+        <li>Без ограничений.</li>
+        <li>Анархия.</li>
+        <li>Экономика через команды - продавай и покупай!</li>
+    </ul>
+    <a href="https://discord.gg/t3FM8ktXp">Discord проекта</a>
+    <footer>© Vision (сайт), все права принадлежат Aloxmystery.</footer>
+</body>
+</html>
+  
